@@ -1,8 +1,8 @@
 {
-  "name": "World Cup 2018",
+  "name": "Mondial 2018",
   "rounds": [
     {
-      "name": "Matchday 1",
+      "name": "Journée 1",
       "matches": [
         {
           "num": 1,
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "Matchday 2",
+      "name": "Journée 2",
       "matches": [
         {
           "num": 2,
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "name": "Matchday 3",
+      "name": "Journée 3",
       "matches": [
         {
           "num": 5,
@@ -382,7 +382,7 @@
       ]
     },
     {
-      "name": "Matchday 4",
+      "name": "Journée 4",
       "matches": [
         {
           "num": 9,
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "name": "Matchday 5",
+      "name": "Journée 5",
       "matches": [
         {
           "num": 12,
@@ -633,7 +633,7 @@
       ]
     },
     {
-      "name": "Matchday 6",
+      "name": "Journée 6",
       "matches": [
         {
           "num": 15,
@@ -786,7 +786,7 @@
       ]
     },
     {
-      "name": "Matchday 7",
+      "name": "Journée 7",
       "matches": [
         {
           "num": 18,
@@ -896,7 +896,7 @@
       ]
     },
     {
-      "name": "Matchday 8",
+      "name": "Journée 8",
       "matches": [
         {
           "num": 21,
@@ -1025,7 +1025,7 @@
       ]
     },
     {
-      "name": "Matchday 9",
+      "name": "Journée 9",
       "matches": [
         {
           "num": 24,
@@ -1141,7 +1141,7 @@
       ]
     },
     {
-      "name": "Matchday 10",
+      "name": "Journée 10",
       "matches": [
         {
           "num": 27,
@@ -1314,7 +1314,7 @@
       ]
     },
     {
-      "name": "Matchday 11",
+      "name": "Journée 11",
       "matches": [
         {
           "num": 30,
@@ -1491,7 +1491,7 @@
       ]
     },
     {
-      "name": "Matchday 12",
+      "name": "Journée 12",
       "matches": [
         {
           "num": 33,
@@ -1688,7 +1688,7 @@
       ]
     },
     {
-      "name": "Matchday 13",
+      "name": "Journée 13",
       "matches": [
         {
           "num": 37,
@@ -1852,7 +1852,7 @@
       ]
     },
     {
-      "name": "Matchday 14",
+      "name": "Journée 14",
       "matches": [
         {
           "num": 41,
@@ -2044,7 +2044,7 @@
       ]
     },
     {
-      "name": "Matchday 15",
+      "name": "Journée 15",
       "matches": [
         {
           "num": 45,
@@ -2201,7 +2201,7 @@
       ]
     },
     {
-      "name": "Round of 16",
+      "name": "16ème de finale",
       "matches": [
         {
           "num": 49,
@@ -2615,7 +2615,7 @@
       ]
     },
     {
-      "name": "Quarter-finals",
+      "name": "Quart de finale",
       "matches": [
         {
           "num": 57,
@@ -2732,19 +2732,19 @@
       ]
     },
     {
-      "name": "Semi-finals",
+      "name": "Demi finale",
       "matches": [
 
       ]
     },
     {
-      "name": "Match for third place",
+      "name": "Petite finale",
       "matches": [
 
       ]
     },
     {
-      "name": "Final",
+      "name": "Finale",
       "matches": [
 
       ]
