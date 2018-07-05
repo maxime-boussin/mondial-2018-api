@@ -2,7 +2,7 @@
   "name": "Mondial 2018",
   "rounds": [
     {
-      "name": "JournÈe 1",
+      "name": "Journ√©e 1",
       "matches": [
         {
           "num": 1,
@@ -68,7 +68,7 @@
       ]
     },
     {
-      "name": "JournÈe 2",
+      "name": "Journ√©e 2",
       "matches": [
         {
           "num": 2,
@@ -91,7 +91,7 @@
           ],
           "goals2": [
             {
-              "name": "GimÈnez",
+              "name": "Gim√©nez",
               "minute": 89,
               "score1": 0,
               "score2": 1
@@ -210,7 +210,7 @@
       ]
     },
     {
-      "name": "JournÈe 3",
+      "name": "Journ√©e 3",
       "matches": [
         {
           "num": 5,
@@ -314,7 +314,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "Ag¸ero",
+              "name": "Ag√ºero",
               "minute": 19,
               "score1": 1,
               "score2": 0
@@ -382,7 +382,7 @@
       ]
     },
     {
-      "name": "JournÈe 4",
+      "name": "Journ√©e 4",
       "matches": [
         {
           "num": 9,
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "name": "JournÈe 5",
+      "name": "Journ√©e 5",
       "matches": [
         {
           "num": 12,
@@ -633,7 +633,7 @@
       ]
     },
     {
-      "name": "JournÈe 6",
+      "name": "Journ√©e 6",
       "matches": [
         {
           "num": 15,
@@ -786,7 +786,7 @@
       ]
     },
     {
-      "name": "JournÈe 7",
+      "name": "Journ√©e 7",
       "matches": [
         {
           "num": 18,
@@ -806,7 +806,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "L. Su·rez",
+              "name": "L. Su√°rez",
               "minute": 23,
               "score1": 1,
               "score2": 0
@@ -896,7 +896,7 @@
       ]
     },
     {
-      "name": "JournÈe 8",
+      "name": "Journ√©e 8",
       "matches": [
         {
           "num": 21,
@@ -916,7 +916,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "MbappÈ",
+              "name": "Mbapp√©",
               "minute": 34,
               "score1": 1,
               "score2": 0
@@ -1025,7 +1025,7 @@
       ]
     },
     {
-      "name": "JournÈe 9",
+      "name": "Journ√©e 9",
       "matches": [
         {
           "num": 24,
@@ -1141,7 +1141,7 @@
       ]
     },
     {
-      "name": "JournÈe 10",
+      "name": "Journ√©e 10",
       "matches": [
         {
           "num": 27,
@@ -1224,7 +1224,7 @@
               "penalty": true
             },
             {
-              "name": "J. Hern·ndez",
+              "name": "J. Hern√°ndez",
               "minute": 66,
               "score1": 0,
               "score2": 2
@@ -1314,7 +1314,7 @@
       ]
     },
     {
-      "name": "JournÈe 11",
+      "name": "Journ√©e 11",
       "matches": [
         {
           "num": 30,
@@ -1468,13 +1468,13 @@
           ],
           "goals2": [
             {
-              "name": "ManÈ",
+              "name": "Man√©",
               "minute": 11,
               "score1": 0,
               "score2": 1
             },
             {
-              "name": "M. WaguÈ",
+              "name": "M. Wagu√©",
               "minute": 71,
               "score1": 1,
               "score2": 2
@@ -1491,7 +1491,7 @@
       ]
     },
     {
-      "name": "JournÈe 12",
+      "name": "Journ√©e 12",
       "matches": [
         {
           "num": 33,
@@ -1511,7 +1511,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "L. Su·rez",
+              "name": "L. Su√°rez",
               "minute": 10,
               "score1": 1,
               "score2": 0
@@ -1688,7 +1688,7 @@
       ]
     },
     {
-      "name": "JournÈe 13",
+      "name": "Journ√©e 13",
       "matches": [
         {
           "num": 37,
@@ -1820,7 +1820,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "G. Sigursson",
+              "name": "G. Sigur√∞sson",
               "minute": 76,
               "score1": 1,
               "score2": 1,
@@ -1835,7 +1835,7 @@
               "score2": 1
             },
             {
-              "name": "Periöic",
+              "name": "Peri≈°ic",
               "minute": 90,
               "score1": 1,
               "score2": 2
@@ -1852,7 +1852,7 @@
       ]
     },
     {
-      "name": "JournÈe 14",
+      "name": "Journ√©e 14",
       "matches": [
         {
           "num": 41,
@@ -1913,7 +1913,7 @@
           "score2i": null,
           "goals1": [
             {
-              "name": "Dûemaili",
+              "name": "D≈æemaili",
               "minute": 31,
               "score1": 1,
               "score2": 0
@@ -2026,7 +2026,7 @@
               "penalty": true
             },
             {
-              "name": "¡lvarez",
+              "name": "√Ålvarez",
               "minute": 74,
               "score1": 0,
               "score2": 3,
@@ -2044,7 +2044,7 @@
       ]
     },
     {
-      "name": "JournÈe 15",
+      "name": "Journ√©e 15",
       "matches": [
         {
           "num": 45,
@@ -2201,7 +2201,7 @@
       ]
     },
     {
-      "name": "16Ëme de finale",
+      "name": "16√®me de finale",
       "matches": [
         {
           "num": 49,
@@ -2289,13 +2289,13 @@
               "score2": 2
             },
             {
-              "name": "Kylian MbappÈ",
+              "name": "Kylian Mbapp√©",
               "minute": 64,
               "score1": 3,
               "score2": 2
             },
             {
-              "name": "Kylian MbappÈ",
+              "name": "Kylian Mbapp√©",
               "minute": 68,
               "score1": 4,
               "score2": 2
@@ -2303,7 +2303,7 @@
           ],
           "goals2": [
             {
-              "name": "¡ngel Di MarÌa",
+              "name": "√Ångel Di Mar√≠a",
               "minute": 41,
               "score1": 1,
               "score2": 1
@@ -2315,7 +2315,7 @@
               "score2": 2
             },
             {
-              "name": "Sergio Ag¸ero",
+              "name": "Sergio Ag√ºero",
               "minute": 90,
               "offset": 3,
               "score1": 4,
@@ -2398,7 +2398,7 @@
           "knockout": true,
           "goals1": [
             {
-              "name": "Mario Mandûukic",
+              "name": "Mario Mand≈æukic",
               "minute": 4,
               "score1": 1,
               "score2": 1
@@ -2406,7 +2406,7 @@
           ],
           "goals2": [
             {
-              "name": "Mathias J¯rgensen",
+              "name": "Mathias J√∏rgensen",
               "minute": 1,
               "score1": 0,
               "score2": 1
@@ -2732,19 +2732,19 @@
       ]
     },
     {
-      "name": "Demi finale",
+      "name": "Demi Finale",
       "matches": [
 
       ]
     },
     {
-      "name": "Petite finale",
+      "name": "Match pour la 3√®me place",
       "matches": [
 
       ]
     },
     {
-      "name": "Finale",
+      "name": "Final",
       "matches": [
 
       ]
