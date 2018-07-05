@@ -64,13 +64,8 @@
           },
           "city": "Moscow",
           "timezone": "UTC+3"
-        }
-      ]
-    },
-    {
-      "name": "Journée 2",
-      "matches": [
-        {
+        },
+		{
           "num": 2,
           "date": "2018-06-15",
           "time": "17:00",
@@ -206,12 +201,7 @@
           },
           "city": "Saint Petersburg",
           "timezone": "UTC+3"
-        }
-      ]
-    },
-    {
-      "name": "Journée 3",
-      "matches": [
+        },
         {
           "num": 5,
           "date": "2018-06-16",
@@ -378,12 +368,7 @@
           },
           "city": "Kaliningrad",
           "timezone": "UTC+2"
-        }
-      ]
-    },
-    {
-      "name": "Journée 4",
-      "matches": [
+        },
         {
           "num": 9,
           "date": "2018-06-17",
@@ -493,12 +478,7 @@
           },
           "city": "Moscow",
           "timezone": "UTC+3"
-        }
-      ]
-    },
-    {
-      "name": "Journée 5",
-      "matches": [
+        },
         {
           "num": 12,
           "date": "2018-06-18",
@@ -629,12 +609,7 @@
           },
           "city": "Volgograd",
           "timezone": "UTC+3"
-        }
-      ]
-    },
-    {
-      "name": "Journée 6",
-      "matches": [
+        },
         {
           "num": 15,
           "date": "2018-06-19",
@@ -728,7 +703,12 @@
           },
           "city": "Saransk",
           "timezone": "UTC+3"
-        },
+        }
+      ]
+    },
+    {
+      "name": "Journée 2",
+      "matches": [
         {
           "num": 17,
           "date": "2018-06-19",
@@ -782,12 +762,7 @@
           },
           "city": "Saint Petersburg",
           "timezone": "UTC+3"
-        }
-      ]
-    },
-    {
-      "name": "Journée 7",
-      "matches": [
+        },
         {
           "num": 18,
           "date": "2018-06-20",
@@ -892,12 +867,7 @@
           },
           "city": "Kazan",
           "timezone": "UTC+3"
-        }
-      ]
-    },
-    {
-      "name": "Journée 8",
-      "matches": [
+        },
         {
           "num": 21,
           "date": "2018-06-21",
@@ -1021,12 +991,7 @@
           },
           "city": "Nizhny Novgorod",
           "timezone": "UTC+3"
-        }
-      ]
-    },
-    {
-      "name": "Journée 9",
-      "matches": [
+        },
         {
           "num": 24,
           "date": "2018-06-22",
@@ -1137,12 +1102,7 @@
           },
           "city": "Kaliningrad",
           "timezone": "UTC+2"
-        }
-      ]
-    },
-    {
-      "name": "Journée 10",
-      "matches": [
+        },
         {
           "num": 27,
           "date": "2018-06-23",
@@ -1310,12 +1270,7 @@
           },
           "city": "Moscow",
           "timezone": "UTC+3"
-        }
-      ]
-    },
-    {
-      "name": "Journée 11",
-      "matches": [
+        },
         {
           "num": 30,
           "date": "2018-06-24",
@@ -1491,7 +1446,7 @@
       ]
     },
     {
-      "name": "Journée 12",
+      "name": "Journée 3",
       "matches": [
         {
           "num": 33,
