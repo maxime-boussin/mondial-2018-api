@@ -1639,12 +1639,7 @@
           },
           "city": "Kaliningrad",
           "timezone": "UTC+2"
-        }
-      ]
-    },
-    {
-      "name": "Journée 13",
-      "matches": [
+        },
         {
           "num": 37,
           "date": "2018-06-26",
@@ -1803,12 +1798,7 @@
           },
           "city": "Rostov-on-Don",
           "timezone": "UTC+3"
-        }
-      ]
-    },
-    {
-      "name": "Journée 14",
-      "matches": [
+        },
         {
           "num": 41,
           "date": "2018-06-27",
@@ -1995,12 +1985,7 @@
           },
           "city": "Ekaterinburg",
           "timezone": "UTC+5"
-        }
-      ]
-    },
-    {
-      "name": "Journée 15",
-      "matches": [
+        },
         {
           "num": 45,
           "date": "2018-06-28",
